@@ -1,0 +1,10 @@
+# Dependencies
+Backend/node_modules/
+Frontend/node_modules/
+
+# Environment files
+Backend/.env
+
+# Build folders
+Backend/dist/
+Frontend/dist/
