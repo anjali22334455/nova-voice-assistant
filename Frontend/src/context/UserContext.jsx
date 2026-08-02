@@ -4,7 +4,7 @@ import axios from 'axios';
 export const userDataContext = createContext()
 
 function UserContext({ children }) {
-  const serverUrl = "https://ai-voice-assistant-vjsp.onrender.com"
+  const serverUrl = "https://nova-voice-assistant-5f9a.onrender.com"
   const [userData, setUserData] = useState(null);
   const [frontendImage, setFrontendImage] = useState(null);
   const [backendImage, setBackendImage] = useState(null);
