@@ -16,7 +16,7 @@ const app = express()
 app.use(cors({
     origin:[
         "http://localhost:5173",
-        "https://ai-voice-assistant-woad.vercel.app"
+        // "https://ai-voice-assistant-woad.vercel.app"
     ],
     credentials:true
 }));
