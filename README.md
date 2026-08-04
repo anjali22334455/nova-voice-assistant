@@ -184,12 +184,13 @@ http://localhost:5173
 
 ---
 
-## Contributing
+GitHub:
+https://github.com/anjali22334455
 
-Contributions are welcome. Feel free to fork the repository, create a feature branch, and submit a pull request.
-
+LinkedIn:
+(https://www.linkedin.com/in/anjali-jaiswal-438a1328b/)
 ---
 
-## License
+##  Support
 
-This project is intended for learning, educational, and portfolio purposes.
+If you like this project, consider giving it a ⭐ on GitHub.
