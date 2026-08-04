@@ -184,13 +184,6 @@ http://localhost:5173
 
 ---
 
-GitHub:
-https://github.com/anjali22334455
-
-LinkedIn:
-(https://www.linkedin.com/in/anjali-jaiswal-438a1328b/)
----
-
 ##  Support
 
 If you like this project, consider giving it a ⭐ on GitHub.
